@@ -1,6 +1,9 @@
 # README: Cost Reporting Genie
 ## Overview
-Gain visibility into your Databricks costs based on the **system.billing** tables. This Genie space focuses on **historical cost observability** - find out *what you spent, when, and on what*
+Gain visibility into your Databricks costs based on the **system.billing** tables. This Genie space focuses on **historical cost observability** - find out *what you spent, when, and on what*. 
+## Note 
+There are 2 different versions of the Genie Space, one for AWS & GCP and one for Azure. Use the correct version based on your cloud provider. 
+
 ## Data Sources
 - system.billing.usage
 - system.biling.list_prices
